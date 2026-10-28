@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+.playwright-cli/
+output/
+transcripts/
+*.m4a
+*.mp3
+*.wav
+*.srt
